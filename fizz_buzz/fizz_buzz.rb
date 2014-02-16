@@ -20,4 +20,4 @@ class FizzBuzz
 
 end
 
-puts FizzBuzz.checker(15)
+puts FizzBuzz.checker(1)
